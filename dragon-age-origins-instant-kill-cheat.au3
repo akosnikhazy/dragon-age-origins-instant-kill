@@ -6,7 +6,7 @@
 ; change X to any button that is not already used in the game). Save the file, and start the game with the shortcut 
 ; you created on your desktop.
 
-HotKeySet("y", cheat) ; y is default but you can set it to any key the game does not use (so do not set if fo C for example. Nor for the key you use for opening the condole)
+HotKeySet("y", cheat) ; y is default but you can set it to any key the game does not use (so do not set if fo C for example. Nor for the key you use for opening the console)
 
 While 1
     Sleep(100)
